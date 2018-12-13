@@ -1,0 +1,4 @@
+1.右键工程名-->属性-->Java Build Path-->Libraries-->Add Library
+2.选中JUnit， 单击 Next
+3.选择JUnit library version， 选择 JUnit 4 这是新版本，也可以选择3 可以自己文档说明，看看他们的之间的区别  点击Finish
+4.点击 ok 就可以在工程中看到 JUnit的jar文件了
